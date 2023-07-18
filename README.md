@@ -16,3 +16,11 @@ O projeto do Conversor é uma aplicação Java que oferece três funcionalidades
 :heavy_check_mark: Realiza a conversão das seguintes Temperaturas: Celsius, Kelvin e Fahrenheit
 
 :heavy_check_mark: Realiza a conversão das seguintes Distâncias: Jardas, Milhas, Metros, Quilómetros e Centímetros
+
+<br><br><br>
+
+<p align="center">
+<i>
+<a href="https://github.com/IgorAgui/ONEconversorChallenge/raw/main/conversor.jar" target="_blank">Baixe o executável da aplicação aqui!</a>
+</i>
+</p>
